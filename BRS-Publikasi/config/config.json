@@ -1,0 +1,10 @@
+{
+    "database":{
+        "name": "brspublikasi",
+        "hostname": "localhost",
+        "port": 3306,
+        "username": "root",
+        "password": "password"
+    },
+    "httpport": 8082
+}
